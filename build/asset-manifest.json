@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/wigo/static/css/main.2889e8d8.css",
+    "main.js": "/wigo/static/js/main.5b44ae93.js",
+    "static/js/882.7059c32b.chunk.js": "/wigo/static/js/882.7059c32b.chunk.js",
+    "static/js/676.06749e56.chunk.js": "/wigo/static/js/676.06749e56.chunk.js",
+    "static/js/416.7c28d29f.chunk.js": "/wigo/static/js/416.7c28d29f.chunk.js",
+    "static/js/538.e2bbd34d.chunk.js": "/wigo/static/js/538.e2bbd34d.chunk.js",
+    "static/js/566.b81b03d5.chunk.js": "/wigo/static/js/566.b81b03d5.chunk.js",
+    "static/js/614.c4022a98.chunk.js": "/wigo/static/js/614.c4022a98.chunk.js",
+    "static/js/545.46c57216.chunk.js": "/wigo/static/js/545.46c57216.chunk.js",
+    "index.html": "/wigo/index.html",
+    "main.2889e8d8.css.map": "/wigo/static/css/main.2889e8d8.css.map",
+    "main.5b44ae93.js.map": "/wigo/static/js/main.5b44ae93.js.map",
+    "882.7059c32b.chunk.js.map": "/wigo/static/js/882.7059c32b.chunk.js.map",
+    "676.06749e56.chunk.js.map": "/wigo/static/js/676.06749e56.chunk.js.map",
+    "416.7c28d29f.chunk.js.map": "/wigo/static/js/416.7c28d29f.chunk.js.map",
+    "538.e2bbd34d.chunk.js.map": "/wigo/static/js/538.e2bbd34d.chunk.js.map",
+    "566.b81b03d5.chunk.js.map": "/wigo/static/js/566.b81b03d5.chunk.js.map",
+    "614.c4022a98.chunk.js.map": "/wigo/static/js/614.c4022a98.chunk.js.map",
+    "545.46c57216.chunk.js.map": "/wigo/static/js/545.46c57216.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2889e8d8.css",
+    "static/js/main.5b44ae93.js"
+  ]
+}
