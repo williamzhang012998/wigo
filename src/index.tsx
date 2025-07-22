@@ -1,5 +1,6 @@
+import React from "react";
+import { createRoot } from "react-dom/client";
 import { BrowserRouter } from "react-router-dom";
-import ReactDOM from "react-dom";
 import { I18nextProvider } from "react-i18next";
 import 'antd/dist/antd.min.css';
 
@@ -14,4 +15,9 @@ const App = () => (
   </BrowserRouter>
 );
 
-ReactDOM.render(<App />, document.getElementById("root"));
+// Use React 18's createRoot
+const container = document.getElementById("root");
+if (container) {
+  const root = createRoot(container);
+  root.render(<App />);
+}
