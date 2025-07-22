@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/wigo/static/css/main.2889e8d8.css",
-    "main.js": "/wigo/static/js/main.3a83ed48.js",
+    "main.js": "/wigo/static/js/main.29d481ac.js",
     "static/js/882.7059c32b.chunk.js": "/wigo/static/js/882.7059c32b.chunk.js",
     "static/js/676.06749e56.chunk.js": "/wigo/static/js/676.06749e56.chunk.js",
     "static/js/416.7c28d29f.chunk.js": "/wigo/static/js/416.7c28d29f.chunk.js",
@@ -11,7 +11,7 @@
     "static/js/545.46c57216.chunk.js": "/wigo/static/js/545.46c57216.chunk.js",
     "index.html": "/wigo/index.html",
     "main.2889e8d8.css.map": "/wigo/static/css/main.2889e8d8.css.map",
-    "main.3a83ed48.js.map": "/wigo/static/js/main.3a83ed48.js.map",
+    "main.29d481ac.js.map": "/wigo/static/js/main.29d481ac.js.map",
     "882.7059c32b.chunk.js.map": "/wigo/static/js/882.7059c32b.chunk.js.map",
     "676.06749e56.chunk.js.map": "/wigo/static/js/676.06749e56.chunk.js.map",
     "416.7c28d29f.chunk.js.map": "/wigo/static/js/416.7c28d29f.chunk.js.map",
@@ -22,6 +22,6 @@
   },
   "entrypoints": [
     "static/css/main.2889e8d8.css",
-    "static/js/main.3a83ed48.js"
+    "static/js/main.29d481ac.js"
   ]
 }
