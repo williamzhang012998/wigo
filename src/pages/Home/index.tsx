@@ -5,6 +5,7 @@ import AboutContent from "../../content/AboutContent.json";
 import MissionContent from "../../content/MissionContent.json";
 import ProductContent from "../../content/ProductContent.json";
 import ContactContent from "../../content/ContactContent.json";
+import ToolboxContent from "../../content/ToolboxContent.json";
 
 const Contact = lazy(() => import("../../components/ContactForm"));
 const MiddleBlock = lazy(() => import("../../components/MiddleBlock"));
@@ -20,35 +21,35 @@ const Home = () => {
         direction="right"
         title={IntroContent.title}
         content={IntroContent.text}
-        button={IntroContent.button}
-        icon="developer.svg"
+        icon="landings_book.png"
         id="intro"
-      />
-      <MiddleBlock
-        title={MiddleBlockContent.title}
-        content={MiddleBlockContent.text}
-        button={MiddleBlockContent.button}
       />
       <ContentBlock
         direction="left"
         title={AboutContent.title}
         content={AboutContent.text}
-        section={AboutContent.section}
-        icon="graphs.svg"
+        icon="landingb_daily_drills.png"
         id="about"
       />
       <ContentBlock
         direction="right"
         title={MissionContent.title}
         content={MissionContent.text}
-        icon="product-launch.svg"
+        icon="landingb_drill_generator.png"
         id="mission"
       />
       <ContentBlock
         direction="left"
         title={ProductContent.title}
         content={ProductContent.text}
-        icon="waving.svg"
+        icon="landingb_games.png"
+        id="product"
+      />
+      <ContentBlock
+        direction="left"
+        title={ToolboxContent.title}
+        content={ToolboxContent.text}
+        icon="landingb_toolbox.png"
         id="product"
       />
       <Contact

@@ -120,10 +120,10 @@ const Footer = ({ t }: { t: TFunction }) => {
             <NavLink to="/">
               <LogoContainer>
                 <SvgIcon
-                  src="logo.svg"
+                  src="wigofencingbanner.png"
                   aria-label="homepage"
-                  width="101px"
-                  height="64px"
+                  width="300px"
+                  height="100px"
                 />
               </LogoContainer>
             </NavLink>
@@ -149,12 +149,6 @@ const Footer = ({ t }: { t: TFunction }) => {
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                <img
-                  height="36"
-                  style={{ border: 0, height: 36 }}
-                  src="https://storage.ko-fi.com/cdn/kofi3.png?v=3"
-                  alt="Buy Me a Coffee at ko-fi.com"
-                />
               </a>
             </FooterContainer>
           </Row>
